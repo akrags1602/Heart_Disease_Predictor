@@ -13,6 +13,9 @@
 11. ST oldpeak -> depression -> Numeric
 12. ST slope -> 0,1,2 -> Nominal
 13. target -> 0,1 -> Binary
+
 The goal of this project is to develop a machine learning algorithm that accurately predicts the chances of suffering from a heart disease. Given above are the features mentioned in the dataset
+
 I developed a Logistic Regression, Random Forest and Gradient Boosting model and compared the recall of every model to decide which model is ideal in predicting heart disease suffrage
+
 I also developed a few visualizations as an initial exploratory data analysis. The dataset was taken from Kaggle.

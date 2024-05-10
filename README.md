@@ -1,5 +1,5 @@
 # Heart_Disease_Predictor
-S.No. Attribute Code given Unit Data type
+# S.No. Attribute Code given Unit Data type
 age -> in years -> Numeric 
 sex -> (1,0) -> Binary
 chest pain type -> 1,2,3,4 -> Nominal

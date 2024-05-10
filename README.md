@@ -18,4 +18,4 @@ The goal of this project is to develop a machine learning algorithm that accurat
 
 I developed a Logistic Regression, Random Forest and Gradient Boosting model and compared the recall of every model to decide which model is ideal in predicting heart disease suffrage
 
-I also developed a few visualizations as an initial exploratory data analysis. The dataset was taken from Kaggle.
+I also developed a few visualizations as an initial exploratory data analysis. The dataset was taken from Kaggle. Python was used for data visualization model building and testing. I used the sklearn library to split the dataset into training and testing sets , the ML Model libraries like RandomForestClassifier(), GradientBoostingClassifier() and LogisticRegression() to build the models. From sklearn.metrics, I utilized auc_score, precision, recall, classification report and confusion matrix to estimate/quantify model performance
